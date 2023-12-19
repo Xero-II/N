@@ -26,15 +26,15 @@
       "rgba(66, 69, 72, 0.7)"
     ],
     "INTERACTIVE_NORMAL": [
-      "#5e5566",
+      "#826b80",
       "rgba(46, 51, 56, 0.9)"
     ],
     "INTERACTIVE_HOVER": [
-      "#8c7a91",
+      "#a091a6",
       "rgba(46, 51, 56, 0.7)"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#50454d",
+      "#6c5d6a",
       "rgba(30, 30, 30, 0.8)"
     ],
     "INTERACTIVE_MUTED": [
@@ -42,7 +42,7 @@
       "rgba(199, 204, 209, 0.8)"
     ],
     "BACKGROUND_PRIMARY": [
-      "#0d0212",
+      "#2d2d2d",
       "rgba(255, 255, 255, 0.05)"
     ],
     "BACKGROUND_SECONDARY": [
@@ -98,7 +98,7 @@
       "hsla(240, 7.7%, 2.5%, 0.08)"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#5e5566",
+      "#826b80",
       "hsla(217, 7.6%, 33.5%, 0.3)"
     ],
     "SCROLLBAR_THIN_TRACK": [
@@ -106,7 +106,7 @@
       "hsla(0, 0%, 0%, 0)"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#5e5566",
+      "#826b80",
       "#cccccc"
     ],
     "SCROLLBAR_AUTO_TRACK": [
@@ -118,11 +118,11 @@
       "#ebedef"
     ],
     "CHANNELS_DEFAULT": [
-      "#5e5566",
+      "#826b80",
       "#6a7480"
     ],
     "TEXT_LINK": [
-      "#50454d",
+      "#6c5d6a",
       "#000000"
     ],
     "KEYBOARD": [
