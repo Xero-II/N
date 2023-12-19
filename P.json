@@ -1,0 +1,142 @@
+{
+  "name": "DeepPurple",
+  "description": "Low-key, Deep Purple Aesthetic",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Your Name",
+      "id": "your-github-id"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#f1f1f1",
+      "rgba(30, 30, 30, 0.8)"
+    ],
+    "HEADER_SECONDARY": [
+      "#ffffff",
+      "rgba(40, 40, 40, 0.95)"
+    ],
+    "TEXT_NORMAL": [
+      "#FBFBFB",
+      "rgba(66, 69, 72, 0.95)"
+    ],
+    "TEXT_MUTED": [
+      "#FBFBFB",
+      "rgba(66, 69, 72, 0.7)"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#5e5566",
+      "rgba(46, 51, 56, 0.9)"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#8c7a91",
+      "rgba(46, 51, 56, 0.7)"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#50454d",
+      "rgba(30, 30, 30, 0.8)"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#bfb9ff",
+      "rgba(199, 204, 209, 0.8)"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0d0212",
+      "rgba(255, 255, 255, 0.05)"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1a1a1a",
+      "rgba(255, 255, 255, 0.9)"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0d0212",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0d0212",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#0d0212",
+      "rgba(116, 127, 141, 0.9)"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#0d0212",
+      "rgba(255, 255, 255, 0.9)"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0d0212",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0d0212",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0d0212",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#5e5566",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#5e5566",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#5e5566",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#50454d",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#111011",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#565656",
+    "PRIMARY_DARK_600": "#1a1b21",
+    "PRIMARY_DARK_800": "#1a1a1a",
+    "BACKGROUND_PRIMARY": "#36393d"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#1a1a1a"
+  }
+}
